@@ -1,0 +1,9 @@
+name: "NoWaveTimer"
+displayName: "No Wave Timer"
+subtitle: "Manual waves"
+author: flavioandrade
+description: "Disables the wave timer, changing it to manual mode"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
